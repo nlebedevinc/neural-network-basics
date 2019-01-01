@@ -1,0 +1,34 @@
+image number: 0
+noise percent: 10
+test image: 
+0 1 0 0 1 1 
+0 0 1 0 1 0 
+0 1 0 0 1 0 
+0 1 1 1 1 1 
+1 0 1 0 0 0 
+0 0 0 0 0 0 
+
+result: 99.9906 
+
+noise percent: 20
+test image: 
+0 0 0 0 0 1 
+0 0 0 1 1 0 
+1 1 0 0 1 0 
+0 0 1 0 1 1 
+1 0 1 0 0 0 
+0 0 0 1 0 0 
+
+result: 99.9761 
+
+noise percent: 30
+test image: 
+0 1 0 0 1 0 
+1 0 1 1 0 1 
+1 1 0 0 0 0 
+0 1 1 1 1 0 
+1 1 1 0 0 0 
+0 1 1 0 0 0 
+
+result: 99.9911 
+
